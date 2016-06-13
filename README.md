@@ -21,7 +21,7 @@ Digital Image Processing Assignment Set I
  - [x] 15. Write a program to enhance a given image using min filter.  
  - [x] 16. Write a program to enhance the image using max filter.  
  - [x] 17. Write a program to enhance the image using unsharp masking and High-boost filtering.  
- - [x] 18. Wri - [ ] te a program to enhance the image using 1st order derivative filtering.  
+ - [x] 18. Write a program to enhance the image using 1st order derivative filtering.  
  - [x] 19. Write a program to enhance the image using 2nd order derivative filtering.  
  - [x] 20. Write a program to enhance the image using Robert Operator.  
  - [x] 21. Write a program to enhance the image using Prewitt Operator. 
