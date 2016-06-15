@@ -14,7 +14,7 @@ Digital Image Processing Assignment Set I
  - [ ] 8. Write a program to enhance the low contrast image to high contrast image using non-linear stretching method. 
  - [x] 9. Write a program to find the histogram of a image and then plot the histogram. 
  - [x] 10. Write a program to enhance the low contrast image to high contrast image using Histogram equalization.  
- - [x] 11. Write a program to enhance the low contrast image to high contrast image using Histogram specification.   
+ - [ ] 11. Write a program to enhance the low contrast image to high contrast image using Histogram specification.   
  - [x] 12. Write a program to remove the noise using averaging filtering technique from a given noisy image.  
  - [x] 13. Write a program to remove the noise using weighted averaging filtering technique from noisy image.  
  - [x] 14. Write a program to remove the impulsive noise using median filtering technique.  
